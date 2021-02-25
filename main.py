@@ -1,4 +1,4 @@
 import os
 
-print("Testing puthon environment: ")
+print("Testing python environment: ")
 print(os.getenv('PYTHON_ENV'))
